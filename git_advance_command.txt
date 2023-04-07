@@ -1,0 +1,12 @@
+================= Git Advance command for production ================================
+
+1. git remote -v
+2. git remote add origin <origin path>
+3. git remote set-url origin https://<token code>@<repository path>
+4. git push -u origin main
+5. git pull origin main
+6. git branch
+7. git branch <new branch name>
+8. git checkout -b <new branch name>
+9. git checkout <existing branch name>
+10.git restore <file name>
