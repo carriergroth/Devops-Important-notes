@@ -10,3 +10,4 @@
 8. git checkout -b <new branch name>
 9. git checkout <existing branch name>
 10.git restore <file name>
+11.git revert <commint id>
