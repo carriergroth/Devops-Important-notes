@@ -1,2 +1,3 @@
 =============Hello guys Welocome to my repository repository============
 Devops first tool is Git there you leran how to manage you code in Distributed version control system. It can be DVCS or VCS, Basically it is depends upon your orgniztion Sequrity both are robost version control system.Now we need to understand where use DVCS and VCS. 
+Git tool very helpful for programmer,team leader,manager They all easily track code flow.
