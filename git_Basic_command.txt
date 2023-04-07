@@ -1,6 +1,6 @@
 =================Basic command of Git==================
 
-1. git init  -To Inisilize the git folder.
+1. git init  -To Initialize the git folder.
 2. git add . -To add any file in stagging area.
 3. git commit -m "<your massage>" - To commint you file in git or you can say save in git.
 4. git log   -To check all commit.
